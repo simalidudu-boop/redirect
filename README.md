@@ -1,0 +1,2 @@
+# redirect
+simple redirect bot
